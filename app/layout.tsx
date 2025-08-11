@@ -8,8 +8,8 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Semeia Labs - Plantando ideias, colhendo inovação",
   description:
-    "Agência digital inovadora especializada em criação de logos, Google Ads, Meta Ads, automações e desenvolvimento web.",
-    generator: 'v0.dev'
+    "Agência digital inovadora especializada em criação de logos, Google Ads, Meta Ads, automações e desenvolvimento web."
+  
 }
 
 export default function RootLayout({
